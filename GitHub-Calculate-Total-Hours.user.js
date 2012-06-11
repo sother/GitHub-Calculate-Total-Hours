@@ -18,7 +18,7 @@ function addJQuery(callback) {
 	}
 	if (typeof jQuery == 'undefined') { 
 		var script = document.createElement("script");
-		script.setAttribute("src", "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js");
+		script.setAttribute("src", "https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js");
 		script.addEventListener('load', callMain, false);
 		document.body.appendChild(script);
 	} else {
