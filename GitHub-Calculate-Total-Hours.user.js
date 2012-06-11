@@ -70,7 +70,7 @@ function main($) {
 		asigneesHours[assigneeName] = (asigneesHours[assigneeName] || 0) + issueHours;
 	});
 	
-	$('.actions').after('<div class="actions">' + buildHoursByAssigneeReport() + '</div>')
+	$('.issues .actions').after('<div class="actions">' + buildHoursByAssigneeReport() + '</div>')
 }
 
 // load jQuery and execute the main function
