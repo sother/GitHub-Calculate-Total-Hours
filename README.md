@@ -7,8 +7,8 @@ The amount of estimated hours of a issue can be specified adding in its title th
 
 Examples:
 
-An Issue [1]
-Another Issue [1h]
-One More Issue [0.5h]
+* An Issue [1]
+* Another Issue [1h]
+* One More Issue [0.5h]
 
 
