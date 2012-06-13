@@ -11,4 +11,5 @@ Examples:
 * Another Issue [1h]
 * One More Issue [0.5h]
 
+Published to [userscripts.org](http://userscripts.org/scripts/show/135778).
 
